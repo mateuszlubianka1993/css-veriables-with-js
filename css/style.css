@@ -1,15 +1,18 @@
 body {
-    background-image: ;
+    background-color: #222;
     background-size: cover;
+    text-align: center;
 }
 
 h2 {
     text-align: center;
     color: #fff;
-    font-size: 4.2rem;
+    font-size: 3rem;
 }
 
-
+.controls {
+    margin-bottom: 15px;
+}
 
 .footer-box p {
     text-align: center;
